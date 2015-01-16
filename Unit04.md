@@ -1,3 +1,7 @@
+---
+layout: default
+
+---
 **Unit 4: Transporting Text Across a Network** <span id="4"></span> 
 *By now, you know that you can receive input from users and generate
 outputs using a subset of streams on a local machine.  In this unit, you

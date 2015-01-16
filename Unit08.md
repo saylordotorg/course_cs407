@@ -1,3 +1,7 @@
+---
+layout: default
+
+---
 **Unit 8: Transporting Function Calls** <span id="8"></span> 
 *In the last unit, you learned how objects can be transported across
 networks so that other programmers can use those objects’ methods.  This

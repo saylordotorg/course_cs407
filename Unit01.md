@@ -1,3 +1,7 @@
+---
+layout: default
+
+---
 **Unit 1: Getting Prepared** <span id="1"></span> 
 *This first tutorial walks you through installing java and the NetBeans
 package for a graphical aid to programming in java.  Just compare your

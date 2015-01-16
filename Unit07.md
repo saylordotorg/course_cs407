@@ -1,3 +1,7 @@
+---
+layout: default
+
+---
 **Unit 7: Object Transport** <span id="7"></span> 
 *Classes are often designed with reusability in mind.  Programmers can
 exchange classes that were written by other programmers to use their

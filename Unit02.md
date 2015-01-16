@@ -1,3 +1,7 @@
+---
+layout: default
+
+---
 **Unit 2: Object-Oriented Programming in Java** <span id="2"></span> 
 *In this unit, you will review the basics of Object-Oriented Programming
 in Java, discussing the fundamentals of classes and objects, function

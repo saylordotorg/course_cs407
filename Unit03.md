@@ -1,3 +1,7 @@
+---
+layout: default
+
+---
 **Unit 3: Threading in Java** <span id="3"></span> 
 *In this unit, you will be introduced Java threads.  Some problems/tasks
 need to be subdivided with each piece running concurrently without being
