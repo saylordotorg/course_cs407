@@ -1,6 +1,6 @@
 ---
 layout: default
-
+course: CS407
 ---
 Course Syllabus for "CS407: Network Applications Development"
 -------------------------------------------------------------
