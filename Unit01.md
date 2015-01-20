@@ -1,6 +1,6 @@
 ---
 layout: default
-
+course: CS407
 ---
 **Unit 1: Getting Prepared** <span id="1"></span> 
 *This first tutorial walks you through installing java and the NetBeans

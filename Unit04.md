@@ -1,6 +1,6 @@
 ---
 layout: default
-
+course: CS407
 ---
 **Unit 4: Transporting Text Across a Network** <span id="4"></span> 
 *By now, you know that you can receive input from users and generate

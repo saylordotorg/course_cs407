@@ -1,6 +1,6 @@
 ---
 layout: default
-
+course: CS407
 ---
 **Unit 3: Threading in Java** <span id="3"></span> 
 *In this unit, you will be introduced Java threads.  Some problems/tasks

@@ -1,6 +1,6 @@
 ---
 layout: default
-
+course: CS407
 ---
 **Unit 2: Object-Oriented Programming in Java** <span id="2"></span> 
 *In this unit, you will review the basics of Object-Oriented Programming
