@@ -1,6 +1,7 @@
 ---
 layout: default
 course: CS407
+course_fulltitle: 'Network Applications Development'
 course_description: 'Exploration of the design and implementation of network-based applications, focusing on Object-Oriented Programming and programming techniques, both at the application layer and the transport layer of the TCP/IP protocol stack.'
 ---
 **Unit 5: Text Transport Using UCP and TCP** <span id="5"></span> 
