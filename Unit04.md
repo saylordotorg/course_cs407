@@ -1,6 +1,7 @@
 ---
 layout: default
 course: CS407
+course_description: 'Exploration of the design and implementation of network-based applications, focusing on Object-Oriented Programming and programming techniques, both at the application layer and the transport layer of the TCP/IP protocol stack.'
 ---
 **Unit 4: Transporting Text Across a Network** <span id="4"></span> 
 *By now, you know that you can receive input from users and generate
