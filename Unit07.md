@@ -1,8 +1,9 @@
 ---
 layout: default
-course: CS407
-course_fulltitle: 'Network Applications Development'
-course_description: 'Exploration of the design and implementation of network-based applications, focusing on Object-Oriented Programming and programming techniques, both at the application layer and the transport layer of the TCP/IP protocol stack.'
+title: "CS407: Network Applications Development"
+course_description: "An exploration of the design and implementation of network-based applications, focusing on object-oriented programming and programming techniques, both at the application layer and the transport layer of the TCP/IP protocol stack."
+next: ../Unit08
+previous: ../Unit06
 ---
 **Unit 7: Object Transport** <span id="7"></span> 
 *Classes are often designed with reusability in mind.  Programmers can

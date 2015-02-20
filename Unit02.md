@@ -1,8 +1,9 @@
 ---
 layout: default
-course: CS407
-course_fulltitle: 'Network Applications Development'
-course_description: 'Exploration of the design and implementation of network-based applications, focusing on Object-Oriented Programming and programming techniques, both at the application layer and the transport layer of the TCP/IP protocol stack.'
+title: "CS407: Network Applications Development"
+course_description: "An exploration of the design and implementation of network-based applications, focusing on object-oriented programming and programming techniques, both at the application layer and the transport layer of the TCP/IP protocol stack."
+next: ../Unit03
+previous: ../Unit01
 ---
 **Unit 2: Object-Oriented Programming in Java** <span id="2"></span> 
 *In this unit, you will review the basics of Object-Oriented Programming

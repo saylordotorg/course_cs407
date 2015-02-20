@@ -1,8 +1,9 @@
 ---
 layout: default
-course: CS407
-course_fulltitle: 'Network Applications Development'
-course_description: 'Exploration of the design and implementation of network-based applications, focusing on Object-Oriented Programming and programming techniques, both at the application layer and the transport layer of the TCP/IP protocol stack.'
+title: "CS407: Network Applications Development"
+course_description: "An exploration of the design and implementation of network-based applications, focusing on object-oriented programming and programming techniques, both at the application layer and the transport layer of the TCP/IP protocol stack."
+next: ../Unit05
+previous: ../Unit03
 ---
 **Unit 4: Transporting Text Across a Network** <span id="4"></span> 
 *By now, you know that you can receive input from users and generate
