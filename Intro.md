@@ -162,3 +162,14 @@ each subunit includes the file name you may need to open manually.
     materials in the unit as they present the same material, just in a
     different style.  Seek understanding, not just completion.
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/cs407/Unit01/)
+- [Unit 2](https://legacy.saylor.org/cs407/Unit02/)
+- [Unit 3](https://legacy.saylor.org/cs407/Unit03/)
+- [Unit 4](https://legacy.saylor.org/cs407/Unit04/)
+- [Unit 5](https://legacy.saylor.org/cs407/Unit05/)
+- [Unit 6](https://legacy.saylor.org/cs407/Unit06/)
+- [Unit 7](https://legacy.saylor.org/cs407/Unit07/)
+- [Unit 8](https://legacy.saylor.org/cs407/Unit08/)
+- [Unit 9](https://legacy.saylor.org/cs407/Unit09/)
