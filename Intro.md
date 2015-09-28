@@ -190,3 +190,4 @@ each subunit includes the file name you may need to open manually.
 - [Unit 7](https://legacy.saylor.org/cs407/Unit07/)
 - [Unit 8](https://legacy.saylor.org/cs407/Unit08/)
 - [Unit 9](https://legacy.saylor.org/cs407/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CS/CS407/CS407-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CS/CS407/CS407-FinalExam-Answers.html)
