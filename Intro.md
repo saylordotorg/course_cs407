@@ -93,8 +93,8 @@ Computer Science discipline.
  <span dir="LTR"><span
 style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif; font-size: 16px; line-height: 24px; text-align: left; -webkit-text-size-adjust: none; ">√
    </span>Have completed
-[CS103/MA101](http://www.saylor.org/courses/cs103/)</span> and
-[CS104/MA102](http://www.saylor.org/courses/cs104/) from the “[Math
+[MA101](https://legacy.saylor.org/ma101/Intro/)</span> and
+[MA102](https://legacy.saylor.org/ma102/Intro/) from the “[Math
 Requirements](http://www.saylor.org/majors/computer-science/)” section
 of the Computer Science discipline.  
   
