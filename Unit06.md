@@ -53,7 +53,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 11.5: A
     Brief Introduction to
-    XML”](http://www.saylor.org/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    XML”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read Section 11.5 in its entirety.  This

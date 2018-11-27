@@ -30,7 +30,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 12.1:
     Introduction to
-    Threads”](http://www.saylor.org/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Threads”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read Section 12.1 in its entirety.  Compile
@@ -51,7 +51,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 12.2:
     Programming with
-    Threads”](http://www.saylor.org/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Threads”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of Section 12.2.  As you read, take
@@ -71,7 +71,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's: *Introduction to Programming Using Java*: [“Section 12.3:
     Threads and Parallel
-    Processing”](http://www.saylor.org/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Processing”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of Section 12.3.  As you read, take
@@ -92,7 +92,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 12.4:
     Threads and
-    Networking”](http://www.saylor.org/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Networking”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of Section 12.4.  As you read, take
@@ -112,7 +112,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 12.5:
     Network Programming Example: A Networked Game
-    Framework”](http://www.saylor.org/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Framework”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please complete Section 12.5.  Follow the steps in
@@ -133,7 +133,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Programming
     Exercises for Chapter
-    12”](http://www.saylor.org/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    12”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please complete all of the exercises.  Each exercise
