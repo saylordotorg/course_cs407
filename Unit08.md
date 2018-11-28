@@ -182,7 +182,7 @@ for Java (SAAJ)** <span id="8.2"></span> 
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Chapter 8:
     Introduction to Correctness and
-    Robustness”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Robustness”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of Chapter 8.  The topics of each
@@ -207,7 +207,7 @@ for Java (SAAJ)** <span id="8.2"></span> 
     Link: Hobart and William Smith Colleges: David J. Eck's
     *Introduction to Programming Using Java*: [“Section 8.1:
     Introduction to Correctness and
-    Robustness”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Robustness”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of  Section 8.1.  Explain the
@@ -226,7 +226,7 @@ for Java (SAAJ)** <span id="8.2"></span> 
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 8.2:
     Writing Correct
-    Programs”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Programs”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of  Section 8.2.  Compile and run the
@@ -248,7 +248,7 @@ for Java (SAAJ)** <span id="8.2"></span> 
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 8.3:
     Exceptions and
-    Try...Catch”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Try...Catch”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of Section 8.3.  Note the various
@@ -269,7 +269,7 @@ for Java (SAAJ)** <span id="8.2"></span> 
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 8.4:
     Assertion and
-    Annotations”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Annotations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of  Section 8.4.  Note that this
@@ -289,7 +289,7 @@ for Java (SAAJ)** <span id="8.2"></span> 
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 8.5:
     Analysis of
-    Algorithms”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Algorithms”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of  Section 8.5.  Network efficiency
@@ -310,7 +310,7 @@ for Java (SAAJ)** <span id="8.2"></span> 
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Programming
     Exercises for Chapter
-    8”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    8”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Compile and run each programming exercise following

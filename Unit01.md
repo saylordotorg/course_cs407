@@ -63,7 +63,7 @@ Upon successful completion of this unit, the student will be able to:
     Introduction to Programming Using Java: “Chapters 1-4”**
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Chapters
-    1-4”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    1-4”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please review Chapters 1 through 4.  Start with the
