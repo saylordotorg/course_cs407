@@ -39,7 +39,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Chapter 11:
     Advance Input/Output Streams, Files, and
-    Networking”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Networking”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read the introduction to Chapter 11.  Note the
@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 11.1:
     Streams, Readers, and
-    Writers”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)(PDF)  
+    Writers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)(PDF)  
         
      Instructions: Please read Section 11.1 in its entirety.  What types
     of data streams are covered in this section?  
@@ -75,7 +75,7 @@ Upon successful completion of this unit, the student will be able to:
     Introduction to Programming Using Java: “Section 11.2: Files”**
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 11.2:
-    Files”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Files”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read Section 11.2 in its entirety.  Compile
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 11.3:
     Programming with
-    Files”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Files”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of Section 11.3, which provides a
@@ -115,7 +115,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J. Eck's
     *Introduction to Programming Using Java*: [“Programming Exercises
     for Chapter
-    11”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    11”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please complete the exercises for subsections 11.1

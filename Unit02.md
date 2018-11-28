@@ -53,7 +53,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J. Eck's
     *Introduction to Programming* *Using Java:* [“Section 5.1: Objects,
     Instance Methods, and Instance
-    Variables”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Variables”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of Section 5.1.  This is an
@@ -195,7 +195,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Hobart and William Smith Colleges: David J. Eck's
     *Introduction to Programming Using Java*: [“Section 5.2:
     Constructors and Object
-    Initialization”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Initialization”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of Section 5.2, which covers three
@@ -234,7 +234,7 @@ garbage?  Why do the current versions of Java manage garbage?*
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 5.3:
     Programming with
-    Objects”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Objects”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read  all of Section 5.3 through the end of
@@ -254,7 +254,7 @@ garbage?  Why do the current versions of Java manage garbage?*
     Link: Hobart and William Smith Colleges: David J. Eck's
     *Introduction to Programming Using Java:* [“Programming Exercises
     for Chapter
-    5”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    5”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please complete the exercises for subsections 5.1

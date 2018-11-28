@@ -40,7 +40,7 @@ Upon successful completion of this unit, the student will be able to:
     Introduction to Programming Using Java: “Section 11.4: Networking”**
     Link: Hobart and William Smith Colleges: David J.
     Eck's *Introduction to Programming Using Java*: [“Section 11.4:
-    Networking”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
+    Networking”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/CS407-TEXTBOOK.pdf)
     (PDF)  
         
      Instructions: Please read all of Section 11.4, which provides an
